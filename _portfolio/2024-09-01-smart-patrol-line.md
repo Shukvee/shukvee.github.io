@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 **Role:** Patrol vision system and mathematical-model development<br>
-**Period:** Sep. 2024 - Feb. 2025<br>
+**Period:** Sep. 2024 – Feb. 2025<br>
 **Organization:** Wuhan University
 
 Smart Patrol Line is an autonomous power-line monitoring system. I used DeepLSD to detect power lines during flight and applied an improved simulated-annealing algorithm to plan inspection routes.
