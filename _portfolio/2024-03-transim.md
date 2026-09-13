@@ -1,7 +1,8 @@
 ---
 title: "Transim: Multi-Source Traffic Simulation"
-excerpt: "A computer-vision system for traffic counting, anomaly recognition, and improved signal acquisition."
+excerpt: "Visual scene understanding and anomaly detection for multi-source traffic simulation."
 collection: portfolio
+order: 3
 ---
 
 **Role:** Vision-system design and development<br>

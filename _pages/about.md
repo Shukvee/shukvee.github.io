@@ -7,21 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-I am an MSc student in Agentic AI Systems at The Hong Kong Polytechnic University. I previously studied Spatial Information and Digital Technology at Wuhan University.
+I am an MSc student in Agentic AI Systems at The Hong Kong Polytechnic University, with a background in Spatial Information and Digital Technology from Wuhan University. I build multimodal foundation-model systems that connect perception, reasoning, and real-world decision support.
 
-My interests sit at the intersection of agentic AI, large language models, multimodal learning, and computer vision. I am especially interested in building reliable AI systems for education, intelligent sensing, and spatial-information applications.
+My research interests span multimodal AI, large foundation models, agentic and autonomous systems, and reliable machine learning. I am particularly interested in scalable systems that combine visual perception, language-based reasoning, and robust adaptation for education and intelligent sensing.
 
 Research interests
 ======
 
-* Agentic AI systems and large language models
-* Multimodal learning for remote-sensing education
-* Computer vision, intelligent sensing, and spatial information
+* Multimodal foundation models: VLMs, MLLMs, and visual-language reasoning
+* Agentic and autonomous AI systems for real-world decision support
+* Reliable, data-centric, and multi-task learning for intelligent sensing and education
 
 Selected work
 ======
 
-My recent work includes **SkyThink**, a multimodal large language model for remote-sensing education, and applied AI projects in legal-document review, transportation simulation, and autonomous power-line monitoring. See the [selected projects](/portfolio/) page for details.
+My featured project, **SkyThink (Tiansi)**, is an end-to-end multimodal AI system for remote-sensing education: I contributed to a million-scale educational corpus, multi-task adaptive training, domain LoRA adaptation, and a curriculum-wide benchmark. My additional work spans visual sensing and route planning for power-line inspection, traffic-scene understanding, and LLM-enabled legal-document processing. See the [selected projects](/portfolio/) page for details.
 
 Honors
 ======

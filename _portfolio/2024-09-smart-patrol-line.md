@@ -1,7 +1,8 @@
 ---
 title: "Smart Patrol Line: Autonomous Power-Line Monitoring"
-excerpt: "Power-line detection, route planning, point-cloud classification, and line-fitting models for autonomous inspection."
+excerpt: "Visual perception, route planning, and point-cloud modelling for autonomous power-line inspection."
 collection: portfolio
+order: 2
 ---
 
 **Role:** Patrol vision system and mathematical-model development<br>

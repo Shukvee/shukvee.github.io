@@ -1,7 +1,8 @@
 ---
 title: "LawLM: Intelligent Legal-Contract Review"
-excerpt: "A large language model application for legal-document processing and contract review."
+excerpt: "An LLM-enabled system for legal-document data pipelines and contract review."
 collection: portfolio
+order: 4
 ---
 
 <p><strong>Role:</strong> Technical development and testing<br />
